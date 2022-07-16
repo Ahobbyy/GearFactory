@@ -1,0 +1,25 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: UI_GameMain.png (1024 x 1024)
+# $TexturePacker:SmartUpdate:c3bb87b19464a63f8784f9afe9b7497e:97a626b36175edf4d227e4b87efdb371:1ac25a0755f3edb00a9f796d3895a58f$
+#
+
+18;944;929;11;15;0.5;0.5
+20;944;946;11;16;0.5;0.5
+23;764;993;137;29;0.5;0.5
+8;615;704;147;318;0.5;0.5
+9;2;687;611;335;0.5;0.5
+Upload;903;964;58;58;0.5;0.5
+XinFaQuality2;764;863;128;128;0.5;0.5
+box@2x;963;974;48;48;0.5;0.5
+cog@2x;963;924;48;48;0.5;0.5
+in@2x;894;914;48;48;0.5;0.5
+play@2x;944;874;48;48;0.5;0.5
+power@2x;894;864;48;48;0.5;0.5
+video@2x;944;824;48;48;0.5;0.5
+volume@2x;894;814;48;48;0.5;0.5
+xx;994;899;25;23;0.5;0.5
