@@ -1,0 +1,9 @@
+
+project_code/GearFactory/.idea
+project_code/GearFactory/Library
+project_code/GearFactory/Logs
+project_code/GearFactory/obj
+project_code/GearFactory/Assembly-CSharp.csproj
+project_code/GearFactory/Assembly-CSharp-Editor.csproj
+project_code/GearFactory/Packages/packages-lock.json
+project_code/GearFactory/Packages/manifest.json
